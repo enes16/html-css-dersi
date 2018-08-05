@@ -1,0 +1,28 @@
+.kodadi2023 {
+	font-size: 26px;
+	font-family: jokerman;
+	color: red;
+	text-align: center;
+}
+
+h1 {
+	font-family: jokerman;
+	color: red;
+	text-align: center;
+}
+.resmekardesbu {
+	width: 250px;
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*
+body {
+	background: url(iiiiiiiiiii.jpg);
+}
+*/
+
+html,body {
+	background-color:#f49b35
+ !important
+}
