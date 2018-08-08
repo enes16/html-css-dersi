@@ -4,3 +4,5 @@
 git add. <br>
 git commit -m "git öğreniyorum" <br>
 git push origin master 
+
+github üzerinden düzenledim lan burayıkrds
